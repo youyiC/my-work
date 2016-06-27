@@ -1,0 +1,8 @@
+[app]
+name = ucai._app
+max_memory = 512m
+single_instance = yes
+
+[config]
+window = alpha
+window_title = my APP
